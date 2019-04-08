@@ -1,0 +1,2 @@
+.soutmv : 输出方法中变量的值
+  NON_VOID → System.out.println("$className*:className()$ :: $methodName*:methodName()$ : $expr$ = " + $expr$);
